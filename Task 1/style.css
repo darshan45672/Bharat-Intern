@@ -130,6 +130,7 @@ h4{
     box-shadow: 0px 0px 5px #000, 0px 0px 15px, #858585;
     top: 6px;
     right: 6px;
+    cursor: pointer;
 }
 
 .about{
@@ -171,6 +172,7 @@ h4{
     font-size: 22px;
     margin-bottom: 25px;
     text-transform: capitalize;
+    font-style: oblique;
 }
 
 .about-text p{
@@ -179,6 +181,7 @@ h4{
     line-height: 28px;
     font-size: 18px;
     margin-bottom: 45px;
+    font-style: oblique;
 }
 
 button{
@@ -195,4 +198,5 @@ button{
 button:hover{
     background-color: transparent;
     border: 2px solid #f9004d;
+    cursor: pointer;
 }
