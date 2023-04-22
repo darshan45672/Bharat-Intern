@@ -1,2 +1,2 @@
 # Bharat-Intern
-<p></p>
+<p>This is a virtual internship program</p>
